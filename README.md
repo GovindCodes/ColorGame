@@ -12,11 +12,9 @@
   <p align="center">
     An intresting Game to boost Konwledge of Colors 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://colorgamebygovind.netlify.app/"><strong>View Demo »</strong></a>
     <br />
     <br />
-    <a href="https://colorgamebygovind.netlify.app/">View Demo</a>
-    ·
     <a href="https://github.com/govindk11/ColorGame/issues">Report Bug</a>
     ·
     <a href="https://github.com/govindk11/ColorGame/issues">Request Feature</a>
@@ -36,16 +34,15 @@ The Game has two levels:
 *easy
 *hard
 
-[![Guess the Color][screenshot]](images/guessColor)
+![Guess the Color](https://cdn.sourcecodec.net/files-upload/code/2019/09/RGB-Color-Game-Using-Javasctipt-HTML-CSS.png)
 
-[![Color Guessed][screenshot]](images/colorGuessed)
 
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [JavaSctipt]
-* [HTML]
-* [CSS]
+* Vanilla JavaSctipt
+* HTML
+* CSS
 
 
 <!-- CONTRIBUTING -->
