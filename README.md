@@ -26,15 +26,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Check The Game Here](https://colorgamebygovind.netlify.app/) 
+[Also Check The Game Here](https://colorgamebygovind.netlify.app/) 
 
 The RGB Color Game is a simple project developed using JavaScript, CSS, and HTML. This project is an interesting color guessing game. The user/player has to guess the result of the given RGB color combination and find the correct output of the color mixture. The user can guess the color until the option finishes.  
 
 The Game has two levels:
-*easy
-*hard
+* easy
+* hard
 
-![Guess the Color](https://cdn.sourcecodec.net/files-upload/code/2019/09/RGB-Color-Game-Using-Javasctipt-HTML-CSS.png)
+![Guess the Color](https://github.com/govindk11/ColorGame/blob/master/images/guessColor.png?raw=true)
+
+* Guessed the correct color :collision:
+![Guessed the color](https://github.com/govindk11/ColorGame/blob/master/images/guessColor.png?raw=true)
 
 
 
