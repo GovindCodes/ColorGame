@@ -34,10 +34,13 @@ The Game has two levels:
 * easy
 * hard
 
+:large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond::large_orange_diamond:
+
+* Guess the color :dart:
 ![Guess the Color](https://github.com/govindk11/ColorGame/blob/master/images/guessColor.png?raw=true)
 
 * Guessed the correct color :collision:
-![Guessed the color](https://github.com/govindk11/ColorGame/blob/master/images/guessColor.png?raw=true)
+![Guessed the color](https://github.com/govindk11/ColorGame/blob/master/images/colorGuessed.png?raw=true)
 
 
 
