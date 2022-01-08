@@ -48,6 +48,7 @@ h1{
     text-align: center;
 }
 .selected{
+    color: white;
     background-color: steelblue;
 }
 
